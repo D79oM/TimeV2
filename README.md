@@ -4,6 +4,6 @@ Date/Time/Battery
 
   <IMG SRC="https://github.com/D79oM/TimeV2/blob/main/Tiem.GIF?raw=true">
 
-Theos : --
+Theos : https://github.com/D79oM/Theos
  
 ᗪ79ㄖ爪 ~ 🤍
